@@ -1,16 +1,27 @@
-### Hi there 👋
+# Welcome to my GitHub 👨‍💻
+Gleb Zhukov, backend developer. Python, C++.
 
-<!--
-**gleb-zhukov/gleb-zhukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Telegram [@konstela](https://t.me/konstela)
 
-Here are some ideas to get you started:
+## Python projects (Telegram bots)
+[Планировщик личных задач](https://github.com/gleb-zhukov/zhukov_tasks)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Гринсорт — бот для обеспечения логистики при вывозе вторсырья](https://github.com/gleb-zhukov/grinsort_project)
+
+[Бот для синтеза речи из текста](https://github.com/gleb-zhukov/zhukov_speech)
+
+[Умозаключатель — нейросетевое умозаключение на максимальной температуре](https://github.com/gleb-zhukov/zhukov_speech)
+
+## С++ projects (Hardware, Telegram bots)
+[Система умного дома](https://github.com/gleb-zhukov/smart_home_system)
+
+[Статья на Хабре](https://habr.com/ru/articles/655133)
+
+[Метеостанция (esp8266)](https://github.com/gleb-zhukov/smart_meteostantion)
+
+[Часы на газоразрядных индикаторах (avr)](https://github.com/gleb-zhukov/eva_clock)
+
+[Smart RGB-контроллер (esp8266)](https://github.com/gleb-zhukov/rgb_controller)
+
+
+
