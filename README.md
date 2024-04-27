@@ -1,5 +1,5 @@
 # Welcome to my GitHub 👨‍💻
-Gleb Zhukov, backend developer. Python, C++.
+Freelance backend developer. Python, C++.
 
 Telegram [@konstela](https://t.me/konstela)
 
