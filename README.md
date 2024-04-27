@@ -1,5 +1,5 @@
 # Welcome to my GitHub 👨‍💻
-Freelance backend developer. Python, C++.
+Backend developer. Python, C++.
 
 Telegram [@konstela](https://t.me/konstela)
 
