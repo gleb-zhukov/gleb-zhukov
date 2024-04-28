@@ -17,6 +17,8 @@ Telegram [@konstela](https://t.me/konstela)
 
 [Статья на Хабре](https://habr.com/ru/articles/655133)
 
+[Main hub MYEWWT](https://github.com/gleb-zhukov/myewwt_clock)
+
 [Метеостанция (esp8266)](https://github.com/gleb-zhukov/smart_meteostantion)
 
 [Часы на газоразрядных индикаторах (avr)](https://github.com/gleb-zhukov/eva_clock)
