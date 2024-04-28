@@ -10,7 +10,7 @@ Telegram [@konstela](https://t.me/konstela)
 
 [Бот для синтеза речи из текста](https://github.com/gleb-zhukov/zhukov_speech)
 
-[Умозаключатель — нейросетевое умозаключение на максимальной температуре](https://github.com/gleb-zhukov/zhukov_speech)
+[Умозаключатель — нейросетевое умозаключение на максимальной температуре](https://github.com/gleb-zhukov/inference_bot)
 
 ## С++ projects (Hardware, Telegram bots)
 [Система умного дома](https://github.com/gleb-zhukov/smart_home_system)
