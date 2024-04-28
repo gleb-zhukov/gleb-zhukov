@@ -1,5 +1,7 @@
 # Welcome to my GitHub 👨‍💻
-Backend developer. Python, C++.
+Backend developer. C++ (hardware), Python. Опыт в backend разработке на Python больше 3 лет. Разработка API сервисов, серверных приложений, скриптов, чат-ботов любой сложности (Telegram, ВК).
+
+Владею Flask, Serverless stack (Yandex Cloud), Functions, SQL, YDB(yql, sql), containers, OpenAPI (swagger), REST, AI (api).
 
 Telegram [@konstela](https://t.me/konstela)
 
